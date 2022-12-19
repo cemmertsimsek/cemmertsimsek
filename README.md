@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cemmertsimsek" alt="cemmertsimsek" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/cemmertsimsek?tab=repositories](https://github.com/cemmertsimsek?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-cemmertsimsek.vercel.app/](https://my-portfolio-cemmertsimsek.vercel.app/)
 
 - 📫 How to reach me **cemsimseksm@gmail.com**
 
